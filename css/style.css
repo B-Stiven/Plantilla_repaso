@@ -212,7 +212,7 @@ footer{
     justify-content: center;
     align-items: center;
     gap: 380px;
-    background-color: rgb(245, 243, 243);
+    background-color: white;
     font-size: 15px;
     color: rgb(70, 69, 69);
 }
